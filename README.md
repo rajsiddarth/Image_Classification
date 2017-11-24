@@ -1,4 +1,6 @@
 # Image_Classification
+The image classification algorithms are built through inspirations from Andrew Ng's course Neural Networks and Deep Learning in Coursera.The datasets and the approach followed are based upon the assignments and coursework.
+References: [https://www.coursera.org/specializations/deep-learning]
 
 ## Project 1
 ### Dataset
