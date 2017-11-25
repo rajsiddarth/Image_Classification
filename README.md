@@ -28,7 +28,7 @@ We will build a simple image-recognition algorithm that can correctly classify i
 ## Project 3
 ### Objective
 
-We will build an image-classification algorithm using the methodology for building Deep Neural Nets that can correctly classify images as cat or non-cat.We build separate functions that are required to build astructure and merge them finally to classify the images depending on whether it is a cat picture or non cat picture.
+We will build an image-classification algorithm using the methodology for building Deep Neural Nets that can correctly classify images as cat or non-cat.We build separate functions that are required to build a structure and merge them finally to classify the images depending on whether it is a cat picture or non cat picture.
 
 - We will implement a 2-layer neural network
 - We will build a L -layer neural net for image classification. 
