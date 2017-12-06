@@ -1,4 +1,4 @@
-# Image_Classification
+# Image Classification using Deep Neural Nets & Convolutional Neural Nets
 The image classification algorithms are built through inspirations from Andrew Ng's course Neural Networks and Deep Learning in Coursera.The datasets and the approach followed are based upon the assignments and coursework.
 
 References: https://www.coursera.org/specializations/deep-learning
